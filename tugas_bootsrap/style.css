@@ -1,0 +1,137 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@500&display=swap');
+
+.logonav {
+	width: 150px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.navbar {
+	background-color: #2d57c0;
+}
+
+.jumbotron {
+	padding-top: 200px;
+	background-color: #2d57c0;
+
+}
+
+.topdashboard {
+	background-color: #2d57c0;
+}
+
+#page-top {
+	background-color: white;
+}
+
+.display-4 {
+	color: white;
+	font-weight: normal;
+	margin-bottom: 30px;
+	font-size: 45px;
+	font-weight: bold;
+}
+
+.lead {
+	color: white;
+	font-family: 'Quicksand', sans-serif;
+	font-size: 17px;
+	margin-bottom: 30px;
+}
+
+.container {
+	width: 1040px;
+}
+
+.jumbotron h1 {
+	font-family: 'Quicksand', sans-serif;
+}
+
+.navbar-nav {
+	font-family: 'Quicksand', sans-serif;
+	font-size: 15px;
+}
+
+.nav-item {
+	padding-left: 40px;	
+}
+
+.nav-item .material-symbols-rounded {
+	color: white;
+	margin-top: 8px;
+}
+
+.btn {
+	padding-left: 40px;
+	padding-right: 40px;
+	margin-right: 15px;
+	border-radius: 100px;
+	font-family: 'Quicksand', sans-serif;
+	font-weight: bold;
+}
+
+.img-fluid {
+	width: 580px;
+	float: right;
+	margin-top: 155px;
+}
+
+.bottombar {
+	height: 100px;
+	background-color: #e8f7ff;
+	margin-top: 200px;
+}
+
+.bottombar h1 {
+	padding-top: 25px;
+	font-family: 'Quicksand', sans-serif;
+	font-weight: bold;
+}
+
+.bottombar p{
+	float: right;
+	margin-top: -55px;
+	font-family: 'Quicksand', sans-serif;
+}
+
+.promo1 .img-fluid {
+	width: 400px;
+	margin-top: 80px;
+	float: right;
+}
+
+.promo1 h1 {
+	float: left;
+	font-family: 'Quicksand', sans-serif;
+	font-weight: bold;
+	margin-top: 200px;
+}
+
+.promo1 p {
+	margin-top: 5px;
+	float: left;
+	font-weight: bold;
+	font-family: 'Quicksand', sans-serif;
+}
+
+.promo2 .img-fluid {
+	width: 400px;
+	margin-top: 160px;
+	float: left;
+}
+
+.promo2 h1 {
+	float: right;
+	font-family: 'Quicksand', sans-serif;
+	font-weight: bold;
+	margin-top: 200px;
+}
+
+.promo2 p {
+	margin-top: 5px;
+	float: right;
+	font-weight: bold;
+	font-family: 'Quicksand', sans-serif;
+}
+
+
